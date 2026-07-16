@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 B.Tech CSE (AI & ML) Student | Aspiring Developer
 -------------------------------------------------
 
-I’m a first-year B.Tech student in Computer Science with a specialization in AI & Machine Learning. I’m currently building my foundation in programming and exploring areas like web development and machine learning.
+I’m a second-year B.Tech student in Computer Science with a specialization in AI & Machine Learning. I’m currently building my foundation in programming and exploring areas like web development and machine learning.
 
 I enjoy learning new technologies, solving problems, and working on small projects to improve my skills. My goal is to become a skilled developer and contribute to impactful AI-driven solutions in the future.
 
