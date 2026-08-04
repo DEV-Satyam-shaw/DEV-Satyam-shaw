@@ -9,7 +9,7 @@ I’m a second-year B.Tech student in Computer Science with a specialization in 
 I enjoy learning new technologies, solving problems, and working on small projects to improve my skills. My goal is to become a skilled developer and contribute to impactful AI-driven solutions in the future.
 
 * 🌍  I'm based in Kolkata, India
-* ✉️  You can contact me at [satyamshaw302@gmail.com](mailto:satyamshaw463@gmail.com)
+* ✉️  You can contact me at [satyamshaw463@gmail.com](mailto:satyamshaw463@gmail.com)
 * 🧠  I'm currently learning C programming, Python, and basics of Data Structures || Python, problem-solving, and fundamentals of AI/ML || Web development (HTML, CSS) and Python
 * 👥  I'm looking to collaborate on Open-source and beginner coding projects || AI/ML beginner projects and hackathons || Simple projects to learn and grow together
 * 💬  Ask me about Learning step by step and enjoying the journey:)
